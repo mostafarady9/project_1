@@ -5,4 +5,4 @@ The first is to add a movie, and when you call it, you will enter the movie data
 If you initially choose to be the user who will book tickets, it will ask for your name, phone number, and your national number. After that, it will give you two options: the first is to reserve tickets, and the second is to delete remember. 
 When you choose the first, it will give you  A list of movies and gives you the option to buy one of the tickets, or if you choose wrong, there will be an option to choose another movie and book it or exit the program
  video URL
-https://drive.google.com/drive/folders/1_3D6zDs0GkXREQX2ObEYnLe2MlGV2WEP?usp=drive_link
+https://drive.google.com/drive/folders/1J4zLoplFmAVMtsNZ66AoCQPPDRaMOcr4?usp=drive_link
